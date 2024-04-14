@@ -1,10 +1,16 @@
-# Life Restart
-
- 
-
-liferestart的默认页面  [RESTART](view/index.html) 
-
-# test1
-~~~
-print('abc')
-~~~
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="やり直すんだ。そして、次はうまくやる。"/>
+        <meta name="keywords" content="人生重开模拟器 liferestart life restart remake 人生重来"/>
+        <title>Life Restart</title>
+    </head>
+    <body>
+        <script language="javascript" type="text/javascript">
+            window.location.href="/public/index.html";
+        </script>
+    </body>
+</html>
